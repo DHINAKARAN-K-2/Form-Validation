@@ -11,7 +11,7 @@ It validates user inputs before submission and provides error messages for incor
 - 📧 *Email Validation* → must follow correct email format  
 - 🔑 *Password Validation* → minimum 6 characters required  
 - ⚠ Inline error messages for better user guidance  
-- 🎯 Submit button aligned to the center  
+
 
 ---
 
