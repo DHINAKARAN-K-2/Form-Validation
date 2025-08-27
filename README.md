@@ -22,5 +22,10 @@ It validates user inputs before submission and provides error messages for incor
 
 ---
 
-## 🚀 How to Run
-1. Live Page :[ https://dhinakaran-k-2.github.io/Form-Validation/]
+## 🚀 Live Demo
+
+🔗 [View Live Site](https://dhinakaran-k-2.github.io/Form-Validation/)
+
+## 🚀 Repository Link
+
+🔗 [View Live Site](https://github.com/DHINAKARAN-K-2/Form-Validation.git)
