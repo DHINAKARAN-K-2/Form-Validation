@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form-container{
+    margin: 5px;
+   padding: 50px;
+   padding-left: 10px;
+    width: 500px;
+    border-radius: 10px;
+    background-color: aqua;
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.form-container input{
+    display: block;
+    width: 100%;
+    padding: 9px;
+    margin: 5px;
+    border: none;
+    border: solid black 1px;
+    border-radius: 4px;
+}
+h2{
+    text-align: center;
+}
+.formvalue{
+    padding: 5px;
+}
+.errorName,.errorEmail,.errorPassword{
+    color: red;
+    display: none;
+    
+}
+#submit{
+    display: block;
+    width: 120px;
+    background-color: skyblue;
+}
+#submit:hover{
+    background-color: rgb(30, 157, 207);
+}
